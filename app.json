@@ -7,7 +7,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#FF6347",
-    "navigationBarTitleText": "番茄时间",
+    "navigationBarTitleText": "简易番茄闹钟",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
